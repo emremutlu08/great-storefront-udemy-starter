@@ -1,8 +1,8 @@
-# Shopify Hydrogen & GraphQL Storefront API Development
+# Shopify Hydrogen & GraphQL Storefront API Development Udemy Course
 
 Hydrogen is Shopify’s stack for headless commerce. Hydrogen is designed to dovetail with [Remix](https://remix.run/), Shopify’s full stack web framework. This template contains a **minimal setup** of components, queries and tooling to get started with Hydrogen.
 
-[Shopify Hydrogen & GraphQL Storefront API Development](https://www.udemy.com/course/shopify-hydrogen/?referralCode=4352D06400DA7B348C46)
+### Course Link: [Shopify Hydrogen & GraphQL Storefront API Development](https://www.udemy.com/course/shopify-hydrogen/?referralCode=4352D06400DA7B348C46)
 
 
 ## Learn Shopify Hydrogen, Shopify Admin Panel, GraphQL Storefront API usage (BOGO included!). Shopify Development.
